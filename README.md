@@ -1,2 +1,2 @@
 # data-cleaning-project
-Data Cleaning Project using SQL in MySQL. 
+Data Cleaning Project using MySQL. 
